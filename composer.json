@@ -1,0 +1,14 @@
+{
+  "name": "metapic/metapic-wp-plugin",
+  "type": "wordpress-plugin",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/metapic/metapic-api-client.git"
+    }
+  ],
+  "require": {
+    "metapic/api-client": "3.2.1"
+  },
+  "minimum-stability": "dev"
+}

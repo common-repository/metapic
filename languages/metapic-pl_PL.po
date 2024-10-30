@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metapic WordPress Plugin\n"
+"POT-Creation-Date: 2016-07-13 17:37+0200\n"
+"PO-Revision-Date: 2018-03-23 10:29+0100\n"
+"Language-Team: Metapic <info@metapic.se>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"Last-Translator: \n"
+"Language: pl\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: js/tinymce\n"
+
+#: classes/WP_MTPC.php:166
+msgid "Account deactivated"
+msgstr "Konto zostało wyłączone"
+
+#: classes/WP_MTPC.php:180 classes/WP_MTPC.php:254
+msgid "Account created"
+msgstr "Utworzono konto użytkownika"
+
+#: classes/WP_MTPC.php:185
+msgid "Account already exists"
+msgstr "To konto już istnieje"
+
+#: classes/WP_MTPC.php:209
+msgid "Register"
+msgstr "Zarejestruj się"
+
+#: classes/WP_MTPC.php:235
+msgid "Login successful"
+msgstr "Zalogowano poprawnie"
+
+#: classes/WP_MTPC.php:242
+msgid "Invalid username or password"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+#: classes/WP_MTPC.php:257
+msgid "Account activated"
+msgstr "Konto zostało aktywowane"
+
+#: classes/WP_MTPC.php:264
+msgid "User not found"
+msgstr "Nie znaleziono użytkownika"
+
+#: classes/WP_MTPC.php:312
+msgid ""
+"Account activated. You can now activate individual blogs in the network."
+msgstr ""
+"Konto zostało aktywowane. Możesz teraz aktywować pojedyncze blogi w sieci."
+
+# Konto nie zostało znalezione
+#: classes/WP_MTPC.php:315
+msgid ""
+"Account not found. Please check your credentials. If the problem persists "
+"please contact support."
+msgstr ""
+"Konto nie zostało znalezione. Sprawdź swoje dane logowania. Jeśli problem "
+"będzie się powtarzał, skontaktuj się z działem pomocy technicznej."
+
+#: classes/WP_MTPC.php:394 classes/WP_MTPC.php:456
+msgid "Metapic"
+msgstr "Metapic"
+
+#: templates/deeplink-publish.php:7 templates/deeplink-publish.php:13
+msgid "Active"
+msgstr "Aktywny"
+
+#: templates/deeplink-publish.php:7 templates/deeplink-publish.php:12
+msgid "Inactive"
+msgstr "Nieaktywny"
+
+#: templates/deeplink-publish.php:10
+msgid "Auto link content:"
+msgstr "Linkuj treść automatycznie:"
+
+#: templates/deeplink-publish.php:16
+msgid "Edit"
+msgstr "Edytuj"
+
+#: templates/deeplink-publish.php:17
+msgid "Edit auto linking"
+msgstr "Edytuj automatyczne linkowanie"
+
+#: templates/deeplink-publish.php:23
+msgid "Activate auto linking"
+msgstr "Aktywuj automatyczne linkowanie"
+
+#: templates/deeplink-publish.php:26
+msgid "OK"
+msgstr "OK"
+
+#: templates/deeplink-publish.php:27
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: templates/help-button.php:1
+msgid "How to earn money"
+msgstr "Jak zarabiać pieniądze"
+
+#: templates/login.php:1
+msgid "Login"
+msgstr "Zaloguj Się"
+
+#: templates/login.php:3
+msgid "Please login to your Metapic account"
+msgstr "Zaloguj się do swojego konta Metapic"
+
+#: templates/login.php:7 templates/register.php:10
+msgid "Email"
+msgstr "E-mail"
+
+#: templates/login.php:12 templates/register.php:15
+msgid "Password"
+msgstr "Hasło"
+
+#: templates/login.php:20
+msgid "Log in"
+msgstr "Zaloguj się"
+
+#: templates/login.php:21
+msgid "Don't have an account?"
+msgstr "Nie masz konta?"
+
+#: templates/login.php:21
+msgid "Click here to register"
+msgstr "Kliknij tutaj aby się zarejestrować"
+
+#: templates/metapic-options-ms.php:11
+msgid "Deactivate account"
+msgstr "Dezaktywuj konto"
+
+#: templates/metapic-options-ms.php:11 templates/ms-options/new.php:4
+#: templates/register.php:23
+msgid "Create account"
+msgstr "Utwórz konto"
+
+#: templates/metapic-options.php:10 templates/ms-options/my-account.php:1
+#: templates/ms-options/new.php:1
+msgid "Metapic settings page"
+msgstr "Strona ustawień Metapic"
+
+#: templates/metapic-options.php:22
+msgid "Advanced settings"
+msgstr "Zaawansowane ustawienia"
+
+#: templates/metapic-options.php:26
+msgid "Server address"
+msgstr "Adres serwera"
+
+#: templates/metapic-options.php:32
+msgid "Userserver address"
+msgstr "Adres serwera użytkownika"
+
+#: templates/metapic-options.php:38
+msgid "CDN address"
+msgstr "Adres CDN"
+
+#: templates/metapic-site-options.php:6
+msgid "Metapic site settings page"
+msgstr "Strona ustawień witryny Metapic"
+
+#: templates/metapic-site-options.php:10
+msgid "API Settings"
+msgstr "Ustawienia API"
+
+#: templates/metapic-site-options.php:13
+msgid "Welcome,"
+msgstr "Witaj,"
+
+#: templates/metapic-site-options.php:15
+msgid ""
+"Please enter your credentials below. You should have already received your "
+"client credentials from Metapic.<br/>If you haven't received your "
+"credentials please contact Metapic technical support."
+msgstr ""
+"Podaj swoje dane logowania poniżej. Powinieneś już je otrzymać od Metapic. "
+"<br/> Jeśli nie otrzymałeś danych do logowania, skontaktuj się z działem "
+"pomocy technicznej Metapic."
+
+#: templates/metapic-site-options.php:19
+msgid "API Key"
+msgstr "Klucz API"
+
+#: templates/metapic-site-options.php:27
+msgid "Secret Key"
+msgstr "Secret Key"
+
+#: templates/metapic-site-options.php:36
+msgid "Automatic linking"
+msgstr "Automatyczne linkowanie"
+
+#: templates/metapic-site-options.php:41 templates/ms-options/my-account.php:11
+#: templates/my-account.php:6
+msgid "Activate auto linking by default"
+msgstr "Aktywuj opcję domyślnego automatycznego linkowania"
+
+#: templates/metapic-site-options.php:47
+msgid "Automatic registration"
+msgstr "Automatyczna rejestracja"
+
+#: templates/metapic-site-options.php:52
+msgid "Activate automatic registration"
+msgstr "Aktywuj automatyczną rejestrację"
+
+#: templates/metapic-site-options.php:57
+msgid "Api url"
+msgstr "Api url"
+
+#: templates/ms-options/my-account.php:4
+msgid "My settings"
+msgstr "Moje ustawienia"
+
+#: templates/ms-options/my-account.php:6
+msgid ""
+"Metapic has been activated on your site by the network administrator.<br/"
+">You have an active account and you can use the service to tag images and "
+"create collages."
+msgstr ""
+"Metapic został aktywowany na Twojej witrynie przez administratora sieci. <br/"
+"> Posiadasz aktywne konto i możesz korzystać z usługi do tagowania zdjęć i "
+"tworzenia kolaży."
+
+#: templates/ms-options/my-account.php:7
+msgid "The account is connected to the following email address:"
+msgstr "Konto jest połączone z następującym adresem e-mail:"
+
+#: templates/ms-options/new.php:7
+msgid "Metapic has been activated on your site by the network administrator."
+msgstr ""
+"Metapic został aktywowany na Twojej witrynie przez administratora sieci."
+
+#: templates/ms-options/new.php:12 templates/ms-options/reactivate.php:16
+msgid ""
+"As the network administrator you can connect this blog to any account on "
+"this site.<br/>Please select an account from the list."
+msgstr ""
+"Jako administrator sieci możesz połączyć tego bloga z dowolnym kontem tej "
+"witryny. <br/> Wybierz konto z listy."
+
+#: templates/ms-options/new.php:18
+#, php-format
+msgid ""
+"In order to start using Metapic to link content, tag images and make "
+"collages to earn money just click on the button below.<br/>An account will "
+"be created connected to the email address: <strong>%s</strong>."
+msgstr ""
+"Aby zacząć używać Metapic do linkowania treści, oznaczania zdjęć i tworzenia "
+"kolaży, aby zarabiać pieniądze, wystarczy kliknąć przycisk poniżej. <br/> "
+"Konto zostanie utworzone na adres e-mail: <strong>%s</strong>."
+
+#: templates/ms-options/new.php:25
+msgid "I accept the terms."
+msgstr "Akceptuję warunki."
+
+#: templates/ms-options/new.php:41
+msgid "You must accept the terms."
+msgstr "Musisz zaakceptować warunki."
+
+#: templates/ms-options/partials/user-list.php:9
+msgid "Select user"
+msgstr "Wybierz użytkownika"
+
+#: templates/ms-options/partials/user-list.php:12
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Wybierz &mdash;"
+
+#: templates/ms-options/partials/user-list.php:13
+msgid "Users from this blog"
+msgstr "Użytkownicy połączeni z tym blogiem"
+
+#: templates/ms-options/partials/user-list.php:18
+msgid "All users"
+msgstr "Wszyscy użytkownicy"
+
+#: templates/ms-options/reactivate.php:1
+msgid "Activate Metapic account"
+msgstr "Aktywuj konto Metapic"
+
+#: templates/ms-options/reactivate.php:6
+#, php-format
+msgid ""
+"Metapic has been activated on your site by the network administrator.<br/"
+">There is an existing account connected to your email address, <strong>%s</"
+"strong>."
+msgstr ""
+"Metapic został aktywowany na Twojej witrynie przez administratora sieci. <br/"
+"> Istnieje konto powiązane z Twoim adresem e-mail <strong>%s</strong>."
+
+#: templates/ms-options/reactivate.php:11
+msgid ""
+"This could mean that you're either already using Metapic on a blog in the "
+"network or that you have used Metapic before.<br/>Total clicks will be "
+"pooled from all blogs using your account in the network"
+msgstr ""
+"Może to oznaczać, że korzystasz już z Metapica na swoim blogu za "
+"pośrednictwem sieci lub że korzystałeś już z Metapic w przeszłości. <br/> "
+"Łączna liczba kliknięć będzie agregowana ze wszystkich witryn blogowych "
+"połączonych z Twoim kontem w sieci"
+
+#: templates/ms-options/reactivate.php:20
+msgid "Activate account"
+msgstr "Aktywuj konto"
+
+#: templates/ms-options/reactivate.php:28
+msgid "You must select a user."
+msgstr "Musisz wybrać użytkownika."
+
+#: templates/my-account.php:1
+msgid "Your account"
+msgstr "Twoje konto"
+
+#: templates/my-account.php:2
+#, php-format
+msgid "You are currently logged in as: <strong>%s</strong>"
+msgstr "Jesteś obecnie zalogowany jako: <strong>%s</strong>"
+
+#: templates/my-account.php:10
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: templates/register.php:2
+msgid "Metapic registration"
+msgstr "Rejestracja Metapic"
+
+#: templates/register.php:6
+msgid "Enter your email address and your password to start using Metapic!"
+msgstr ""
+"Wprowadź swój adres e-mail i hasło, aby rozpocząć korzystanie z Metapic!"
+
+#: templates/widgets/dashboard-network.php:1
+msgid "Network widget"
+msgstr "Widżet sieciowy"
+
+#: templates/widgets/dashboard.php:1
+msgid "Total clicks per day - last 10 days"
+msgstr "Łączna liczba kliknięć dziennie - ostatnie 10 dni"
+
+#: templates/widgets/dashboard.php:5
+msgid "Date"
+msgstr "Data"
+
+#: templates/widgets/dashboard.php:13
+msgid "Clicks"
+msgstr "Kliknięcia"
+
+#: templates/widgets/dashboard.php:20
+msgid "Show detailed statistics"
+msgstr "Pokaż szczegółowe statystyki"
+
+#: templates/widgets/dashboard.php:25
+msgid "Clicks this month"
+msgstr "Liczba kliknięć w tym miesiącu"
+
+#: templates/widgets/dashboard.php:30
+msgid "Clicks total"
+msgstr "Całkowita liczba kliknięć"
+
+#: templates/widgets/dashboard.php:34
+msgid "You have note received any clicks yet."
+msgstr "Nie zarejestrowaliśmy jeszcze żadnych kliknięć."
+
+#: tinymce-lang/metapic-langs.php:5
+msgid "Link content"
+msgstr "Linkuj treść"
+
+#: tinymce-lang/metapic-langs.php:6
+msgid "Metapic link"
+msgstr "Metapic link"
+
+#: tinymce-lang/metapic-langs.php:7
+msgid "Tag image"
+msgstr "Otaguj obraz"
+
+#: tinymce-lang/metapic-langs.php:8
+msgid "Metapic image"
+msgstr "Obraz Metapic"
+
+#: tinymce-lang/metapic-langs.php:9
+msgid "Add collage"
+msgstr "Dodaj kolaż"
+
+#: tinymce-lang/metapic-langs.php:10
+msgid "Metapic collage"
+msgstr "Kolaż Metapic"
+
+msgid ""
+"In order to start using Metapic to link content, tag images and make "
+"collages you first have to accept our terms of use.<br/>An account will be "
+"created connected to the email address: <strong>%s</strong>."
+msgstr ""
+"Aby zacząć używać narzędzia Metapic do linkowania treści, tagowania zdjęć i "
+"tworzenia kolaży, musisz najpierw zaakceptować warunki użytkowania. <br/> "
+"Konto zostanie utworzone na adres e-mail: <strong>%s</strong>."
+
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+msgid "You are currently logged in"
+msgstr "Jesteś zalogowany"
+
+msgid "Total clicks per day"
+msgstr "Łączna liczba kliknięć dziennie"
+
+msgid ""
+"Metapic has been activated on your site by the network administrator.\n"
+"<br/>You have an active account and you can use the service to tag images "
+"and create collages."
+msgstr ""
+"Metapic został aktywowany na Twojej witrynie przez administratora sieci.\n"
+"<br/> Masz aktywne konto i możesz korzystać z usługi do tagowania zdjęć i "
+"tworzenia kolaży."

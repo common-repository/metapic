@@ -1,0 +1,329 @@
+.dashicons-metapic {
+	background: url('../images/logo.png') center center no-repeat;
+}
+
+#metapic-backdrop {
+	background: rgba(60, 73, 81, .9);
+	background: rgba(#3C4951, .5);
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	z-index: 100150;
+}
+
+html body.metapic-iframe-open {
+	overflow: hidden !important;
+}
+
+#metapic-dashboard-widget h3.sub-header {
+	padding: 0 0 8px;
+}
+
+#metapic-dashboard-widget .content {
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+#metapic-dashboard-widget .content > div {
+	width: 50%;
+	float: left;
+}
+
+#metapic-dashboard-widget footer {
+	background: #fafafa none repeat scroll 0 0;
+	border-top: 1px solid #ccc;
+	overflow: hidden;
+	padding: 0.75em;
+	margin: 0 -12px -12px;
+}
+
+#metapic-dashboard-widget footer h3 {
+	font-size: 1.5em;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+}
+
+#metapic-dashboard-widget footer p {
+	margin: 0;
+	padding: 0;
+}
+
+#metapic-dashboard-widget footer > div {
+	float: left;
+	text-align: left;
+	width: 50%;
+}
+
+#metapic-dashboard-widget .click-date {
+	color: #777;
+}
+
+#metapic-dashboard-widget * {
+	box-sizing: border-box;
+}
+
+.mtpc-deeplink-text {
+	background: url("../images/logo/metapic-symbol-32.png") left center no-repeat;
+	background-size: 18px 18px;
+	display: inline-block;
+	padding-left: 26px;
+}
+
+#deeplink-status-display {
+	font-weight: 600;
+}
+
+.deeplink-status-edit {
+	margin: 10px 2px 0;
+}
+
+.mtpc-link:after, .mtpc-load:after {
+	content: "";
+	display: inline-block;
+	background: url("../images/logo/metapic-symbol-16.png") no-repeat top right;
+	background-size: 12px 12px;
+	width: 12px;
+	height: 12px;
+	margin-left: 2px;
+}
+
+.mtpc-load:after {
+	animation: spin 1s linear infinite;
+}
+
+.mtpc-product-list {
+	display: block !important;
+	list-style-type: none;
+	font-size: 13px;
+	color: #666;
+	width: 100%;
+}
+
+.mtpc-product-list li {
+	display: inline-block;
+	padding: 5px 0px;
+}
+
+.mtpc-product-list li:first-child {
+	margin-left: 0px;
+}
+
+.mtpc-product-list a {
+	display: inline-block;
+	padding: 5px 0px;
+	border-bottom: 1px solid #999;
+}
+
+.mtpc-separator {
+	display: inline-block;
+	padding: 5px;
+}
+/*
+.mtpc-product-list a:before {
+	content: '     //     ';
+	margin: 0px 7px;
+}
+
+.mtpc-product-list a:first-child:before {
+	content: '';
+	margin: 0px;
+	display: none;
+}*/
+
+.mtpc-collage {
+	max-width: 100%;
+}
+
+#metapic-help-button {
+	background: url("../images/logo/metapic-symbol-32.png") 8px center no-repeat;
+	background-size: 14px 14px;
+	display: inline-block;
+	padding-left: 25px;
+}
+
+@keyframes spin {
+	from {
+		transform: rotate(0deg)
+	}
+	to {
+		transform: rotate(360deg)
+	}
+}
+
+.collapse_block {
+	cursor: pointer;
+}
+
+.collapse_block .collapse {
+	display: none;
+	padding: 10px 0;
+}
+
+.collapse_block .collapse p {
+	margin: 0;
+}
+
+.collapse_button {
+	font-weight: 700;
+	margin-top: 20px;
+	padding-left: 14px;
+	position: relative;
+}
+
+.collapse_button::before {
+	content: "";
+	width: 0;
+	height: 0;
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 7px solid #444;
+	top: 7px;
+	left: 0;
+	position: absolute;
+}
+
+/* Styles for admin dashboard */
+
+.metapic-dashboard-container {
+	max-width: 450px;
+	margin: 0 auto;
+	padding: 1rem 0;
+	text-align: center;
+}
+
+.metapic-dashboard-container p {
+	font-size: 0.9rem;
+	margin: 2em 0;
+}
+
+#metapic-dashboard-heading {
+	font-size: 1rem;
+	font-weight: 500;
+	color: #ff3860;
+	margin: 0 0 12px;
+}
+
+.metapic-dashboard-logo {
+	position: absolute;
+	bottom: 28px;
+	right: 28px;
+	width: 32px;
+	height: 32px;
+	background: url("../images/logo/metapic-symbol-32.png");
+}
+
+.metapic-input-container {
+	display: flex;
+	align-items: center;
+}
+
+.metapic-btn {
+	font-size: 0.9rem;
+	font-weight: 500;
+	line-height: 0.9rem;
+	text-align: center;
+	vertical-align: middle;
+	white-space: nowrap;
+	height: 32px;
+	min-width: 100px;
+	padding: 0 16px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+	transition: 0.3s;
+	border-radius: 5px;
+	text-transform: capitalize;
+	cursor: pointer;
+}
+
+.metapic-btn-create-link {
+	background: linear-gradient(45deg,#e47b49,#ea4c89);
+	color: white;
+	font-size: 1rem;
+	font-weight: 700;
+	border: none;
+}
+
+.metapic-btn-create-link:hover {
+	text-decoration: none;
+	filter: brightness(1.2);
+}
+
+.metapic-link-input {
+	height: 32px;
+	width: 300px;
+	max-width: calc(100% - 124px);
+	line-height: 32px;
+	border-radius: 5px;
+	padding: 0 16px;
+	margin-right: 16px;
+}
+
+.metapic-link-input:focus {
+	border-color: #ff3860 !important;
+}
+
+.metapic-btn-go-to-stores {
+	background: white;
+	color: #ff3860;
+	border: 2px solid #ff3860;
+	border-radius: 5px;
+}
+
+.metapic-btn-copy-link {
+	background: white;
+	color: #ff3860;
+	font-weight: 700;
+	border: 2px solid #ff3860;
+	display: none;
+}
+
+.metapic-btn-go-to-stores:hover,
+.metapic-btn-copy-link:hover {
+	text-decoration: none;
+	border-color: white;
+}
+
+.metapic-btn-reset {
+	background: linear-gradient(45deg,#e47b49,#ea4c89);
+	background-clip: text;
+	text-fill-color: transparent;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent; 
+	-moz-text-fill-color: transparent;
+	margin: 16px auto 0;
+	border: none;
+	display: none;
+}
+
+.metapic-btn-reset:hover {
+	text-decoration: none;
+	background: white;
+	background-clip: unset;
+	text-fill-color: unset;
+	-webkit-background-clip: unset;
+	-moz-background-clip: unset;
+	-webkit-text-fill-color: unset; 
+	-moz-text-fill-color: unset;
+	color: black;
+}
+
+.metapic-cost-container {
+	margin: 16px auto 24px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.metapic-cost-container div {
+	background: #ffd6d6;
+	border-radius: 5px;
+	padding: 8px 12px;
+	margin: 4px 1%;
+	color: #2d2e42;
+	font-weight: 500;
+	font-size: 12px;
+	display: none;
+}

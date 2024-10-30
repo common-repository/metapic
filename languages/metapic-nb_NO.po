@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Metapic WordPress Plugin\n"
+"POT-Creation-Date: 2019-10-22 17:17+0300\n"
+"PO-Revision-Date: 2019-10-22 17:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: Metapic <info@metapic.se>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: js/tinymce\n"
+
+#: classes/WP_MTPC.php:75
+msgid "Your settings have been saved"
+msgstr ""
+
+#: classes/WP_MTPC.php:79
+msgid "Account registered"
+msgstr ""
+
+#: classes/WP_MTPC.php:83
+msgid "Registration failed"
+msgstr ""
+
+#: classes/WP_MTPC.php:88
+msgid "You have been logged in"
+msgstr ""
+
+#: classes/WP_MTPC.php:92
+msgid "Login failed"
+msgstr ""
+
+#: classes/WP_MTPC.php:97
+msgid "You have been logged out"
+msgstr ""
+
+#: classes/WP_MTPC.php:101
+msgid "You account has been created"
+msgstr ""
+
+#: classes/WP_MTPC.php:105
+msgid "You account has been activated"
+msgstr ""
+
+#: classes/WP_MTPC.php:109
+msgid "You account has been deactivated"
+msgstr ""
+
+#: classes/WP_MTPC.php:114
+msgid "Account creation failed, please contact technical support"
+msgstr ""
+
+#: classes/WP_MTPC.php:206
+msgid "This post has affiliate links"
+msgstr "Innlegget inneholder reklamelinker"
+
+#: classes/WP_MTPC.php:505 classes/WP_MTPC.php:617
+#: gutenberg/src/blocks/collage.js:40 gutenberg/src/blocks/image-tag.js:40
+msgid "Metapic"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:36 classes/WP_MTPC_Menus.php:37
+msgid "My Account"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:49 classes/WP_MTPC_Menus.php:50
+msgid "Login"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:57 classes/WP_MTPC_Menus.php:58
+msgid "Register"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:68 classes/WP_MTPC_Menus.php:110
+msgid "Metapic Settings"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:69 classes/WP_MTPC_Menus.php:111
+msgid "Settings"
+msgstr ""
+
+#: classes/WP_MTPC_Menus.php:81 classes/WP_MTPC_Menus.php:82
+msgid "Statistics"
+msgstr ""
+
+#: gutenberg/src/blocks/collage.js:36
+msgid "Metapic Collage"
+msgstr ""
+
+#: gutenberg/src/blocks/collage.js:41 gutenberg/src/blocks/image-tag.js:41
+msgid "Image"
+msgstr ""
+
+#: gutenberg/src/blocks/collage.js:42
+msgid "Collage"
+msgstr ""
+
+#: gutenberg/src/blocks/image-tag.js:36
+msgid "Metapic Image Tag"
+msgstr ""
+
+#: gutenberg/src/blocks/image-tag.js:42
+msgid "Tags"
+msgstr ""
+
+#: templates/deeplink-publish.php:10 templates/deeplink-publish.php:18
+msgid "Active"
+msgstr ""
+
+#: templates/deeplink-publish.php:10 templates/deeplink-publish.php:16
+msgid "Inactive"
+msgstr ""
+
+#: templates/deeplink-publish.php:14
+msgid "Auto link content:"
+msgstr ""
+
+#: templates/deeplink-publish.php:22
+msgid "Edit"
+msgstr ""
+
+#: templates/deeplink-publish.php:23
+msgid "Edit auto linking"
+msgstr ""
+
+#: templates/deeplink-publish.php:29
+msgid "Activate auto linking"
+msgstr ""
+
+#: templates/deeplink-publish.php:33
+msgid "OK"
+msgstr ""
+
+#: templates/deeplink-publish.php:34
+msgid "Cancel"
+msgstr ""
+
+#: templates/help-button.php:1
+msgid "How to earn money"
+msgstr ""
+
+#: templates/login.php:2
+msgid "Metapic Login"
+msgstr ""
+
+#: templates/login.php:4
+msgid "Please login to your Metapic account"
+msgstr ""
+
+#: templates/login.php:13 templates/register.php:12
+msgid "Email"
+msgstr ""
+
+#: templates/login.php:19 templates/register.php:17
+msgid "Password"
+msgstr ""
+
+#: templates/login.php:29
+msgid "Log in"
+msgstr ""
+
+#: templates/login.php:30
+msgid "Don't have an account?"
+msgstr ""
+
+#: templates/login.php:32
+msgid "Click here to register"
+msgstr ""
+
+#: templates/metapic-options-ms.php:11
+msgid "Deactivate account"
+msgstr ""
+
+#: templates/metapic-options-ms.php:12 templates/ms-options/new.php:6
+#: templates/register.php:42
+msgid "Create account"
+msgstr ""
+
+#: templates/metapic-options.php:11 templates/ms-options/my-account.php:7
+#: templates/ms-options/new.php:1
+msgid "Metapic settings page"
+msgstr ""
+
+#: templates/metapic-options.php:19
+msgid "Advanced settings"
+msgstr ""
+
+#: templates/metapic-options.php:23
+msgid "Server address"
+msgstr ""
+
+#: templates/metapic-options.php:29
+msgid "Userserver address"
+msgstr ""
+
+#: templates/metapic-options.php:35
+msgid "CDN address"
+msgstr ""
+
+#: templates/metapic-site-options.php:12
+msgid "Metapic site settings page"
+msgstr ""
+
+#: templates/metapic-site-options.php:19
+msgid "API Settings"
+msgstr ""
+
+#: templates/metapic-site-options.php:22
+msgid "Welcome,"
+msgstr ""
+
+#: templates/metapic-site-options.php:26
+msgid ""
+"Please enter your credentials below. You should have already received your "
+"client credentials from Metapic.<br/>If you haven't received your "
+"credentials please contact Metapic technical support."
+msgstr ""
+
+#: templates/metapic-site-options.php:31
+msgid "API Key"
+msgstr ""
+
+#: templates/metapic-site-options.php:41
+msgid "Secret Key"
+msgstr ""
+
+#: templates/metapic-site-options.php:53
+msgid "Automatic linking"
+msgstr ""
+
+#: templates/metapic-site-options.php:62 templates/ms-options/my-account.php:18
+#: templates/my-account.php:8
+msgid "Activate auto linking by default"
+msgstr ""
+
+#: templates/metapic-site-options.php:70
+msgid "Automatic registration"
+msgstr ""
+
+#: templates/metapic-site-options.php:79
+msgid "Activate automatic registration"
+msgstr ""
+
+#: templates/metapic-site-options.php:85
+msgid "Automatic registration role"
+msgstr ""
+
+#: templates/metapic-site-options.php:99
+msgid "Force Https"
+msgstr ""
+
+#: templates/metapic-site-options.php:107
+msgid "Force https for all plugin communication"
+msgstr ""
+
+#: templates/metapic-site-options.php:113
+msgid "Сommercial message"
+msgstr ""
+
+#: templates/metapic-site-options.php:119 templates/my-account.php:14
+msgid "Display commercial interest message"
+msgstr ""
+
+#: templates/metapic-site-options.php:124
+msgid "Api url"
+msgstr ""
+
+#: templates/ms-options/my-account.php:11
+msgid "My settings"
+msgstr ""
+
+#: templates/ms-options/my-account.php:13
+msgid ""
+"Metapic has been activated on your site by the network administrator.<br/"
+">You have an active account and you can use the service to tag images and "
+"create collages."
+msgstr ""
+
+#: templates/ms-options/my-account.php:14
+msgid "The account is connected to the following email address:"
+msgstr ""
+
+#: templates/ms-options/new.php:9
+msgid "Metapic has been activated on your site by the network administrator."
+msgstr ""
+
+#: templates/ms-options/new.php:14 templates/ms-options/reactivate.php:17
+msgid ""
+"As the network administrator you can connect this blog to any account on "
+"this site.<br/>Please select an account from the list."
+msgstr ""
+
+#: templates/ms-options/new.php:20
+#, php-format
+msgid ""
+"In order to start using Metapic to link content, tag images and make "
+"collages to earn money just click on the button below.<br/>An account will "
+"be created connected to the email address: <strong>%s</strong>."
+msgstr ""
+
+#: templates/ms-options/new.php:27
+msgid "I accept the terms."
+msgstr ""
+
+#: templates/ms-options/new.php:44
+msgid "You must accept the terms."
+msgstr ""
+
+#: templates/ms-options/partials/user-list.php:9
+msgid "Select user"
+msgstr ""
+
+#: templates/ms-options/partials/user-list.php:12
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: templates/ms-options/partials/user-list.php:13
+msgid "Users from this blog"
+msgstr ""
+
+#: templates/ms-options/partials/user-list.php:18
+msgid "All users"
+msgstr ""
+
+#: templates/ms-options/reactivate.php:1
+msgid "Activate Metapic account"
+msgstr ""
+
+#: templates/ms-options/reactivate.php:7
+#, php-format
+msgid ""
+"Metapic has been activated on your site by the network administrator.<br/"
+">There is an existing account connected to your email address, <strong>%s</"
+"strong>."
+msgstr ""
+
+#: templates/ms-options/reactivate.php:12
+msgid ""
+"This could mean that you're either already using Metapic on a blog in the "
+"network or that you have used Metapic before.<br/>Total clicks will be "
+"pooled from all blogs using your account in the network"
+msgstr ""
+
+#: templates/ms-options/reactivate.php:21
+msgid "Activate account"
+msgstr ""
+
+#: templates/ms-options/reactivate.php:29
+msgid "You must select a user."
+msgstr ""
+
+#: templates/my-account.php:1
+msgid "Your account"
+msgstr ""
+
+#: templates/my-account.php:2
+#, php-format
+msgid "You are currently logged in as: <strong>%s</strong>"
+msgstr ""
+
+#: templates/my-account.php:22
+msgid "Log out"
+msgstr ""
+
+#: templates/register.php:2
+msgid "Metapic registration"
+msgstr ""
+
+#: templates/register.php:8
+msgid "Enter your email address and your password to start using Metapic!"
+msgstr ""
+
+#: templates/register.php:24
+msgid "Country"
+msgstr ""
+
+#: templates/widgets/dashboard-network.php:1
+msgid "Network widget"
+msgstr ""
+
+#: templates/widgets/dashboard.php:1
+msgid "Total clicks per day - last 10 days"
+msgstr ""
+
+#: templates/widgets/dashboard.php:5
+msgid "Date"
+msgstr ""
+
+#: templates/widgets/dashboard.php:13
+msgid "Clicks"
+msgstr ""
+
+#: templates/widgets/dashboard.php:20
+msgid "Show detailed statistics"
+msgstr ""
+
+#: templates/widgets/dashboard.php:25
+msgid "Clicks this month"
+msgstr ""
+
+#: templates/widgets/dashboard.php:30
+msgid "Clicks total"
+msgstr ""
+
+#: templates/widgets/dashboard.php:34
+msgid "You have note received any clicks yet."
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:5
+msgid "Link content"
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:6
+msgid "Metapic link"
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:7
+msgid "Tag image"
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:8
+msgid "Metapic image"
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:9
+msgid "Add collage"
+msgstr ""
+
+#: tinymce-lang/metapic-langs.php:10
+msgid "Metapic collage"
+msgstr ""

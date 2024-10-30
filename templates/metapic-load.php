@@ -1,0 +1,1 @@
+<div id="metapic-load" data-metapic-user-id="<?= get_option("mtpc_id") ?>" style="display:none;"></div>

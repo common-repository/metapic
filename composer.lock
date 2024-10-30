@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "9f28ed73ceae5f52c8d75516989a70bb",
+    "content-hash": "15ac6eb92b703d6d8eff85036f22b49f",
+    "packages": [
+        {
+            "name": "metapic/api-client",
+            "version": "3.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/metapic/metapic-api-client.git",
+                "reference": "f6601c3df844b261921b85867613244d07233ec8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/metapic/metapic-api-client/zipball/f6601c3df844b261921b85867613244d07233ec8",
+                "reference": "f6601c3df844b261921b85867613244d07233ec8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "MetaPic\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Marcus Dalgren",
+                    "email": "marcus@raket.nu"
+                },
+                {
+                    "name": "Erik Axelsson",
+                    "email": "erikaxelsson1@gmail.com"
+                }
+            ],
+            "description": "MetaPic PHP Client API",
+            "support": {
+                "source": "https://github.com/metapic/metapic-api-client/tree/master",
+                "issues": "https://github.com/metapic/metapic-api-client/issues"
+            },
+            "time": "2018-03-09 07:44:39"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
